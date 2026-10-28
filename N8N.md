@@ -1,0 +1,1 @@
+#Notes for learning N8N 
